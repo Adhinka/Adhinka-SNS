@@ -1,0 +1,17 @@
+body{
+    background-color: #23b94f;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+}
+
+h1{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
